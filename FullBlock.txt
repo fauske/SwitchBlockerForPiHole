@@ -50,6 +50,6 @@ nintendo.pl
 nintendoswitch.com
 nintendoswitch.com.cn
 nintendoswitch.cn
-conntest.nintendowifi.net 95.216.149.205
-ctest.cdn.nintendo.net 95.216.149.205
+95.216.149.205 conntest.nintendowifi.net
+95.216.149.205 ctest.cdn.nintendo.net
 
