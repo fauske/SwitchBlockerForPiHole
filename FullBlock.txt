@@ -16,7 +16,7 @@ e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
 app-a03.lp1.npns.srv.nintendo.net
 
 # 90DNS-equivalent
-127.0.0.1 *nintendo.com
+nintendo.com
 127.0.0.1 *nintendo.net
 127.0.0.1 *nintendo.jp
 127.0.0.1 *nintendo.co.jp
